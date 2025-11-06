@@ -3,6 +3,7 @@ Here, I upload all my Python practice code, exercises, and mini projects.
 Each folder represents a different topic or level.
 
 Folder Structure
+<br>
 basic – Python basic problems and small programs  
 conditional statement – Practice programs on if-else  
 loops – For, while, and nested loop exercises  
