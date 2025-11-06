@@ -9,7 +9,9 @@ conditional statement – Practice programs on if-else
 loops – For, while, and nested loop exercises  
 dict and sets – Practice on dictionary and set operations  
 Python Projects
+<br>
   Beginner Projects - Python Beginner Projects
+  <br>
   AI Content Creator – A simple project to auto-generate text using AI
 
 I'm learning Python step by step and building projects to strengthen my concepts.  
